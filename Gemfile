@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) { |jukangpark.github.io| "https://github.com/jukangpark.github.io" }
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 gem "jekyll"
 gem 'jekyll-feed'
 gem 'jekyll-readme-index'
