@@ -2634,7 +2634,7 @@ table {
 }
 .book-summary {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  /* position: ; */
+  position: absolute;
   height: 100%;
   top: 0;
   left: -300px;
