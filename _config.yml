@@ -1,7 +1,7 @@
 # Configurations
 title: jukang's devlog
 longtitle: Jekyll Gitbook
-author: HE Tao
+author: jukangpark
 email: skyxxx9339@naver.com
 description: >
   Build Jekyll site with the GitBook style.
@@ -10,7 +10,7 @@ version: 1.0
 gitbook_version: 3.2.3
 
 url: "https://jukangpark.github.io"
-baseurl: ""
+baseurl: "devlog"
 rss: RSS
 
 # bootstrap: use the remote theme for the site itself
