@@ -2527,9 +2527,9 @@ table {
 .book.is-loading .book-header h1 i {
   display: inline-block;
 }
-.book.is-loading .book-header h1 a {
+/* .book.is-loading .book-header h1 a {
   display: none;
-}
+} */
 .dropdown {
   position: relative;
 }
@@ -2538,7 +2538,7 @@ table {
   top: 100%;
   left: 0;
   z-index: 100;
-  display: none;
+  /* display: none; */
   float: left;
   min-width: 160px;
   padding: 0;
